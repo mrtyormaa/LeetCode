@@ -2,10 +2,7 @@ package leetcode.solutions;
 
 /* Created by asutosh on 6/25/15. */
 
-import java.util.Collection;
 import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
 
 public class RomanToInt {
   public static int romanToInt(String s) {
